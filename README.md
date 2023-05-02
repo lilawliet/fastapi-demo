@@ -1,2 +1,2 @@
 ### sd 框架精讲### 
-> 整体介绍 FastAPI，快速上手开发，结合 API 文档讲解 框架精讲### FastAPI 框架精讲### FastAPI 框架精讲### FastAPI 框架精讲### FastAPI?query=1 框架精讲### FastAPI 框架精讲### FastAPI?query=1 框架精讲### FastAPI 框架精讲### FastAPI?quedry=1 框架精讲### FastAPI 框架精讲
+> 整体介绍 FastAPI，快速上手开发
